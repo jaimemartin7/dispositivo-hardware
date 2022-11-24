@@ -1,0 +1,50 @@
+iframe{
+    border: 0;
+}
+
+
+h1{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a{
+    color: rgba(8, 150, 189, 0.859);
+    text-decoration: none;
+}
+
+
+#imagen_portada{
+    display: block;
+    margin: auto;
+}
+
+h2{
+    border-bottom: 3px solid rgb(110, 222, 12);
+}
+
+main{
+    width: fit-content;
+    
+}
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#cita_final{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
